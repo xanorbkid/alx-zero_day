@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-echo "School"
-=======
-#!/bin/bash echo "School" 
->>>>>>> 9884cd0c0613b5fd70dc78b35e6277b06aeef142
+#!/bin/bash
+"School" 
